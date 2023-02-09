@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'avgafregular';
-    src: url('avgaf-webfont.woff2') format('woff2'),
-         url('avgaf-webfont.woff') format('woff');
+    src: url('https://github.com/Abhi010bh/Filehost/blob/master/avgaf-webfont.woff2') format('woff2'),
+         url('https://github.com/Abhi010bh/Filehost/blob/master/avgaf-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
